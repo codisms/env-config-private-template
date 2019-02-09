@@ -1,0 +1,7 @@
+*.swp
+*.swo
+
+.DS_Store
+
+ssh/joyent_machine_list.json
+ssh/known_hosts

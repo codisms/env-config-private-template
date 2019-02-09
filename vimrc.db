@@ -1,0 +1,10 @@
+:e ~/db/localhost.sql
+"set filetype=sql
+let g:dbext_default_profile='localhost'
+:TabooRename localhost
+
+"":tabnew
+":tabedit ~/db/dev-mp.sql
+""set filetype=sql
+"let g:dbext_default_profile='dev_media_platform'
+":TabooRename dev-mp
