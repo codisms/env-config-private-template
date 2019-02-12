@@ -1,5 +1,6 @@
 *.swp
 *.swo
+aws/cli/cache
 
 .DS_Store
 
