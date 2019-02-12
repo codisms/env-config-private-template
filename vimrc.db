@@ -6,5 +6,5 @@ let g:dbext_default_profile='localhost'
 "":tabnew
 ":tabedit ~/db/dev-mp.sql
 ""set filetype=sql
-"let g:dbext_default_profile='dev_media_platform'
+"let g:dbext_default_profile='myproject_profile'
 ":TabooRename dev-mp
